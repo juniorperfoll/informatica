@@ -8,7 +8,7 @@
     <body>
         <div class="container">
             <div class="page-header">
-                <h1>Informações <small>Natalia Kelim Thiel</small><a href="index.php" class="btn btn-default">Andreza</a></h1>
+                <h1>Informações <small>Natalia Kelim Thiel</small> <a href="index.php" class="btn btn-default">Voltar</a></h1>
             </div>
             <div class="jumbotron">
                 <div class="panel panel-default">
